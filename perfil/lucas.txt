@@ -1,2 +1,2 @@
-NOMBRE: Lucas rodrigo
-APELLIDO: Avila
+NOMBRE:lucas rodrigo
+APELLIDO:AVILA
